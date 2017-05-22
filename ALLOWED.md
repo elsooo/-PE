@@ -1,6 +1,6 @@
 ## 최종 사용자 라이선스 동의서( EULA, End User License Agreement )
 ```
-링크 : https://github.com/Dotory-Development/ELSOO-EULA/blob/master/LICENSE.md
+링크 : https://github.com/elsooo/-PE/blob/master/LICENSE.md
 ```
 
 ## ELSOO - EULA 라이센스 위반 및 도용에 대한 경고
